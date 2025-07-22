@@ -33,9 +33,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanuu&show_icons=true&theme=radical" alt="Chanuu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chanugajay&show_icons=true&theme=radical" alt="Chanuga's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chanuu&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chanugajay&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
