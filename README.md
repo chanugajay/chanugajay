@@ -48,5 +48,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn" />
   </a>
 
+**👁️ Profile Views:**
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=chanugajay)
+
 
 ---
