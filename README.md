@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chanuga Jayarathne </h1>
+<h3 align="center">🎓 Final Year Computer Science Undergraduate | 🧠 AI/ML Enthusiast | 💻 Web Developer | 🧪 Research-Driven</h3>
 
-<!--
-**chanugajay/chanugajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="coding-gif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Final Year Project: **"Image Enhancement for Medical Imaging of Ankylosing Spondylitis using MRI"**
+- 🤖 Past Project: **"Stress Level Measurement Web App"**
+- 🏏 Passionate about cricket + data = [📊 Player Performance Prediction & Best XI Selection]
+- ☁️ Exploring AI + Cloud (Dialogflow, Firebase, Google Cloud)
+
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanuu&show_icons=true&theme=radical" alt="Chanuu's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chanuu&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: chanuu.dev@gmail.com *(or your preferred email)*
+- 💼 LinkedIn: [linkedin.com/in/chanuu](https://www.linkedin.com/in/chanuga-jayarathne-594a72222/) *(replace with actual link)*
+- 🌐 Portfolio: [GitHub Pages (Coming soon...)](https://chanugajay.github.io/Chanuga-Portfolio/)
+
+---
