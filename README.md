@@ -43,7 +43,7 @@
 ### 🔗 Connect with Me
 
 - 📧 Email: chanuu.dev@gmail.com *(or your preferred email)*
-- 💼 LinkedIn: [linkedin.com/in/chanuu](https://www.linkedin.com/in/chanuga-jayarathne-594a72222/) *(replace with actual link)*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/chanuga-jayarathne-594a72222/)
 - 🌐 Portfolio: [GitHub Pages (Coming soon...)](https://chanugajay.github.io/Chanuga-Portfolio/)
 
 ---
