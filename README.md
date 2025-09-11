@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanuga Jayarathne </h1>
-<h3 align="center">🎓 Final Year Computer Science Undergraduate | 🧠 AI/ML Enthusiast | 💻 Web Developer | 🧪 Research-Driven</h3>
+<h3 align="center">🎓  BSc (Hons) in Computer Science Graduate 🎯 | 🧠 AI/ML Enthusiast | 💻 Web Developer | 🧪 Research-Driven</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="coding-gif" />
